@@ -20,64 +20,12 @@
 ┌──(root㉿rbmk343)-[~]
 └─# cat about.txt
 
-[+] Role        : Student Developer
-[+] Focus       : Kali Linux
-[+] Motto       : hacking for fun
-[+] Reputation  : 1,337,420 followers (source: trust me bro)
-[+] Status      : [████████░░] 80% caffeine, 20% brain
+[+] whoami        : Nobody
+[+] whatiuse       : Kali Linux
+[+] Motto       : hff (hacking for fun)
+[+] Reputation  : abyssal
+[+] Status      : Waiting for second neuron
 ```
 
 ---
 
-## `> ./achievements.sh`
-
-<div align="center">
-
-| | Achievement | Rarity |
-|:-:|:--|:-:|
-| 🏆 | **Master of Bullshit** — 69,420 stars on repos that don't exist | `LEGENDARY` |
-| 🦈 | **Pull Shark x∞** — merged my own PRs, approved by myself | `EPIC` |
-| ⭐ | **Starstruck x99,999** — my mom, my cat and 99,997 bots | `EPIC` |
-| 💀 | **Hacked the Pentagon** — in my head, during a boring class | `MYTHIC` |
-| 🧠 | **10x Developer** — 1 line of code, 10 hours of Stack Overflow | `RARE` |
-| ❄️ | **Arctic Code Vault Contributor** — I put a `.gitignore` in a glacier | `RARE` |
-| 🔥 | **Streak: 9,999 days** — the calendar was wrong, not me | `LEGENDARY` |
-| 🐧 | **I use Kali btw** — mentioned it 4,200 times in conversations | `COMMON` |
-| 🎯 | **YOLO** — pushed straight to `main` on a Friday evening | `EPIC` |
-| 🕶️ | **Elite Hacker** — opened the terminal and it looked cool | `MYTHIC` |
-
-</div>
-
----
-
-## `> ls ~/repos --sort=stars`
-
-<div align="center">
-
-| Repo | Description | ⭐ Stars | 🍴 Forks |
-|:--|:--|--:|--:|
-| **hack-the-pentagon-lol** | Does what it says (it doesn't) | `420.1k` | `69.0k` |
-| **definitely-not-a-rat** | Totally legit file manager, trust me | `187.3k` | `31.4k` |
-| **chatgpt-but-it-hacks** | AI that hacks everything. 0 lines of code | `99.9k` | `12.8k` |
-| **rm-rf-slash-simulator** | Simulator. Mostly. | `69.4k` | `6.9k` |
-| **i-use-kali-btw** | A README explaining that I use Kali | `42.0k` | `1.3k` |
-| **sudo-make-me-a-sandwich** | Root access to your fridge | `31.3k` | `3.3k` |
-| **wifi-password-generator-9000** | Returns `password123` every time | `13.3k` | `420` |
-| **hello-world-but-enterprise** | 14,000 lines to print one string | `9.9k` | `777` |
-
-</div>
-
----
-
-```bash
-┌──(root㉿rbmk343)-[~]
-└─# echo "I'm just here for the lolz" && exit
-```
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=120&section=footer" width="100%" />
-
-<sub>All stars, followers, repos and achievements on this page are 100% fake. That's literally the Master of Bullshit achievement.</sub>
-
-</div>
